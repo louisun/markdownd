@@ -37,6 +37,9 @@ h1 {
 body {
   font: 14px / 20px "Helvetica Neue", "Lucida Grande", Helvetica, Arial, Verdana, sans-serif;
 }
+img {
+  width: 100%;
+}
 pre, code {
   font-family: "Ubuntu Mono", Courier, monospace;
   background-color: #F0EEEA;
